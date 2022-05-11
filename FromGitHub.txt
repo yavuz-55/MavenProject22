@@ -1,1 +1,3 @@
 added driectly from github.com to simulate REMOTE REPO has commit you do not have localy 
+
+doing more work and trying to move it down to local repo 
